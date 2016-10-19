@@ -21,6 +21,6 @@ global:
     - 66.129.255.62
     snmp:
         location: "Site 1"
-        contact: John Doe
+        contact: Sean
         polling:
         - community: public
